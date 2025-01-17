@@ -3,7 +3,7 @@
 </div>
 
 <div align="center"; style="text-align: center; font-size: 18px; font-weight: bold; color: #282d33; margin-top: 20px;">
-  - 🚌수요응답형 공항버스 시스템 분석 및 개발🛩️ -
+  🚌 수요응답형 공항버스 시스템 분석 및 개발 🛩️
 </div>
 
 ---
