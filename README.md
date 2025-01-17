@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:02499a,100:fcaf15&height=120&text=Develop%20ATB%20Analysis&animation=fadeIn&fontColor=000000&fontSize=40" />
 </div>
 
-<div style="text-align: center; font-size: 18px; font-weight: bold; color: #282d33; margin-top: 20px;">
+<div align="center"; style="text-align: center; font-size: 18px; font-weight: bold; color: #282d33; margin-top: 20px;">
   - 🚌수요응답형 공항버스 시스템 분석 및 개발🛩️ -
 </div>
 
